@@ -7,4 +7,3 @@
 
 问题来了: 等你最后一次走完的时候，门的状态是什么样子的？哪些是开着的，哪些是关着的？
 
-from: [http://rosettacode.org/wiki/100_doors](http://rosettacode.org/wiki/100_doors)
