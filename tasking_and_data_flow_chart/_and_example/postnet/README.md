@@ -43,6 +43,37 @@ Quit
 You will need to validate user entries for all data input.
 
 
-Validation Check:       45056-1234   ==   |:|::|:|:|:||::::|:|::||:::::||::|:|::||::|::|||:::|
+Validation Check:       
+
+45056-1234   ==   |:|::|:|:|:||::::|:|::||:::::||::|:|::||::|::|||:::|
 
 cd is 0
+
+
+e.g.
+
+finish a Cli application. start with
+
+    1. Translate zip code to bar code
+    2. Translate bar code to zip code
+    3. Quit
+    Please input your choices(1~3)
+
+When you input '1' and press enter
+
+    Please input zip code:
+
+
+When you input '2' and press enter
+
+    Please input bar code:
+    
+Any time when you input wrong, you would get these output:
+    
+    Please give right input
+    
+    
+    
+    
+    
+     
