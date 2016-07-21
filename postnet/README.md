@@ -1,6 +1,7 @@
 * <https://en.wikipedia.org/wiki/POSTNET>
 * <https://www.cs.drexel.edu/~introcs/Fa12/assignments/HW4/index.html>
 * <http://www.jiskha.com/>
+
 为了快速对信件进行分类，美国联邦邮政局鼓励信件量大的公司用「条码」来代替邮编。
 这种「条码」只有一行，有两种高度。下图展示的是数字 0 - 9 对应的条码。竖线表示长行，冒号表示短行。
 
